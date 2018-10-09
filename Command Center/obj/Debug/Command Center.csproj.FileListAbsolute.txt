@@ -1,0 +1,12 @@
+C:\Users\JLINARES\source\repos\Command Center\Command Center\bin\Debug\Command Center.exe
+C:\Users\JLINARES\source\repos\Command Center\Command Center\bin\Debug\Command Center.pdb
+C:\Users\JLINARES\source\repos\Command Center\Command Center\bin\Debug\MetroFramework.Design.dll
+C:\Users\JLINARES\source\repos\Command Center\Command Center\bin\Debug\MetroFramework.dll
+C:\Users\JLINARES\source\repos\Command Center\Command Center\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\JLINARES\source\repos\Command Center\Command Center\obj\Debug\Command Center.csprojResolveAssemblyReference.cache
+C:\Users\JLINARES\source\repos\Command Center\Command Center\obj\Debug\Command_Center.Form1.resources
+C:\Users\JLINARES\source\repos\Command Center\Command Center\obj\Debug\Command_Center.Properties.Resources.resources
+C:\Users\JLINARES\source\repos\Command Center\Command Center\obj\Debug\Command Center.csproj.GenerateResource.Cache
+C:\Users\JLINARES\source\repos\Command Center\Command Center\obj\Debug\Command Center.csproj.CoreCompileInputs.cache
+C:\Users\JLINARES\source\repos\Command Center\Command Center\obj\Debug\Command Center.exe
+C:\Users\JLINARES\source\repos\Command Center\Command Center\obj\Debug\Command Center.pdb
